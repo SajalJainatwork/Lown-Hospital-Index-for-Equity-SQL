@@ -7,8 +7,6 @@
 
 [SQL Analysis (Code)](https://github.com/SharifAthar/Lown-Hospital-Index-for-Equity-SQL/blob/main/SQL%20Analysis%20-%20Lown%20Hospital%20Index%20for%20Equity.sql)
 
-[Lown Hospital Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/LownHospitalIndexforEquity-ProjectHealthViz/Dashboard1)
-
 ## Project Objective 
 The objective of this project is to perform a comprehensive analysis through MySQL of the Lown Hospital Index for Equity 2022 dataset and create a visually appealing and informative Tableau dashboard that showcase my findings. The analysis will focus on key metrics related to equity in healthcare, including Pay Equity, Community Benefit, and Inclusivity. By exploring these metrics, the project aims to gain insights into the extent of fairness, inclusiveness, and community engagement within hospitals.
 
